@@ -4,9 +4,6 @@
 .idea/
 build/
 
-# 计划
-计划/
-
 # C++ 构建输出
 build/
 install/
