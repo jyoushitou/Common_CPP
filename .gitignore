@@ -1,0 +1,39 @@
+# IDE 配置
+.vscode/
+.vs/
+.idea/
+build/
+
+# 计划
+计划/
+
+# C++ 构建输出
+build/
+install/
+bin/
+obj/
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+
+# 日志和临时文件
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Rust 构建产物
+target/
+
+# 如果有其他构建产物，也可以加在这里
+
+body/
+include/

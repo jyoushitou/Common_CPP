@@ -1,0 +1,21 @@
+{
+  "name": "common_cpp",
+  "version": "1.0.0",
+  "description": "> **WebServer 微服务架构的 C++ 公共库**：为所有 C++ 微服务提供统一的网络通信、线程池、消息协议和工具模块。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyoushitou/WebService.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jyoushitou/WebService/issues"
+  },
+  "homepage": "https://github.com/jyoushitou/WebService#readme"
+}
